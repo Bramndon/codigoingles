@@ -1,0 +1,142 @@
+body{
+    font-family:'open sans';
+    background-color:#e2fec1;
+   }
+   .p1{
+    background-color:#8ba47c;
+   }
+   h1{
+    font-family:Optima;
+    text-align:center;
+    color:#f2f2f2;
+    font-size: 42px;
+   }
+   .p2{
+       background-color: #8ba47c;
+       height: 700px;
+   }
+   .intro{
+       text-align: center;
+       font-family: optima;
+       color:#006600;
+   }
+   .info{
+       font-family: didot;
+       color:#0a0908;
+       text-align: center;
+   }
+   .info-list{
+       text-align: left;
+       font-family: didot;
+       color:#0a0908;
+   }
+   img{
+       width: 300px;
+       height: 300px;
+       float: right;
+   }
+   .list{
+       color: #006600;
+       text-align: left;
+       font-family: optima;
+   }
+   ul{
+       list-style-position: inside;
+       color: #0a0908;
+       text-align: left;
+   }
+   table{
+       background-color: #b4cfa4;
+       width: 100%;
+       text-align: center;
+       height: 60%;
+       font-family: optima;
+      
+   }
+   .p3{
+       background-color: #8ba47c;
+       height: 60%;
+   }
+   .Evidence{
+       font-family: optima;
+       color: #006600;
+       text-align: center;
+   }
+   .t2{
+       text-align: center;
+       width: 100%;
+       height: 60%;
+   }
+   .link{
+       color: olivedrab;
+   }
+   .pages{
+       width: 300px;
+       height: 300px;
+   }
+   .p4{
+       background-color: #8ba47c;
+   }
+   .end{
+       font-family: optima;
+       color: #006600;
+       text-align: center;
+   }
+   .radio-inputs {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 0.5rem;
+    background-color: #eee;
+    box-sizing: border-box;
+    box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
+    padding: 0.2px;
+    width: 300px;
+    font-size: 18px;
+    margin: auto;
+}
+
+.radio-inputs .radio {
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.radio-inputs .radio input {
+    display: none;
+}
+
+.radio-inputs .radio .name {
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5px;
+    border: none;
+    color: rgb(27, 134, 16);
+    padding: 0.5rem 0;
+    transition: all 0.15s ease-in-out;
+}
+
+.radio-inputs .radio input:checked+.name {
+    background-color: #c3ffa0cf;
+    font-weight: 600;
+}
+   .info-conclu{
+       font-family: didot;
+       color: #0a0908;
+       text-align: center;
+   }
+   .p5{
+       background-color: #8ba47c;
+   }
+   .members{
+       font-family: optima;
+       color: #006600;
+       text-align: center;
+   }
+   .mems-info{
+       font-family: didot;
+       color: #0a0908;
+       text-align: center;
+   }
+   
